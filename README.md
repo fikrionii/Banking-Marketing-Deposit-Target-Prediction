@@ -13,3 +13,4 @@
 Reduce the flow of processing & analysis to filter which customer is more likely to subscribe to term deposit and gives *accurate target to telemarketing team*
 
 ## Insight from Data
+![alt text](https://github.com/fikrionii/Banking-Marketing-Deposit-Target-Prediction/blob/master/fig/Target%20ratio.png "Target Ratio")
