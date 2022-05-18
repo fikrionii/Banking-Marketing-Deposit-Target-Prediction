@@ -50,4 +50,4 @@ Random forest gives highest precision score. This model then tuned with hyperpar
 2. Target customer who doesn't have housing loan.
 3. Customer that have successful result in previous campaign is more likely to subscribe to current and future campaign. Consider to target these customer first.
 
-## Thank you for visiting my project!! :)
+### Thank you for visiting my project!! :)
