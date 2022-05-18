@@ -13,4 +13,13 @@
 Reduce the flow of processing & analysis to filter which customer is more likely to subscribe to term deposit and gives *accurate target to telemarketing team*
 
 ## Insight from Data
-![alt text](https://github.com/fikrionii/Banking-Marketing-Deposit-Target-Prediction/blob/master/fig/Target%20ratio.png "Target Ratio")
+1. Distribution of subscribed customer is not balanced.
+![alt text](https://github.com/fikrionii/Banking-Marketing-Deposit-Target-Prediction/blob/main/fig/Target%20ratio.png "Target Ratio")
+2. Customer with higher duration during call is more likely to subscribe to term deposito.
+![alt text](https://github.com/fikrionii/Banking-Marketing-Deposit-Target-Prediction/blob/main/fig/Effect%20of%20duration%20on%20target.png "Effect of duration on target")
+3. Customer without housing loan is more likely to subscribe to term deposito.
+![alt text](https://github.com/fikrionii/Banking-Marketing-Deposit-Target-Prediction/blob/main/fig/Effect%20of%20housing%20on%20target.png "Effect of housing on target")
+4. Customer with succesful result on previous campaign is more likely to subscribe to term deposito.
+![alt text](https://github.com/fikrionii/Banking-Marketing-Deposit-Target-Prediction/blob/main/fig/Effect%20of%20poutcome%20on%20target.png "Effect of previous campaign outcome on target")
+
+## ML Modeling
